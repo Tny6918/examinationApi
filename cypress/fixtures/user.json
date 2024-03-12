@@ -1,0 +1,9 @@
+{
+  "email": "hello1@cypress.io",
+  "password": "TestPass1$",
+  "title": "Test title of the post",
+  "content": "Test content of the post",
+  "author": "Author Test",
+  "contentUpdated": "Test updated content",
+  "postId": "18"
+}
